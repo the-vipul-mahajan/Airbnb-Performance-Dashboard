@@ -99,16 +99,16 @@ The dataset contains information about:
 ## 📷 Dashboard Preview
 
 ### Dashboard 1
-![Dashboard](https://github.com/vipulm9003/ClipKart-E-Commerce-Sales-Dashboard-Power-BI/blob/main/clipkart-dashboard.png)
+![Dashboard]([https://github.com/vipulm9003/ClipKart-E-Commerce-Sales-Dashboard-Power-BI/blob/main/clipkart-dashboard.png](https://github.com/the-vipul-mahajan/Airbnb-Performance-Dashboard/blob/main/Dashboards%20Preview/airbnb%20dashboard%201.png))
 
 ### Dashboard 2
-![Dashboard](https://github.com/vipulm9003/ClipKart-E-Commerce-Sales-Dashboard-Power-BI/blob/main/clipkart-dashboard.png)
+![Dashboard](https://github.com/the-vipul-mahajan/Airbnb-Performance-Dashboard/blob/main/Dashboards%20Preview/airbnb%20dashboard%202.png)
 
 ### Dashboard 3
-![Dashboard](https://github.com/vipulm9003/ClipKart-E-Commerce-Sales-Dashboard-Power-BI/blob/main/clipkart-dashboard.png)
+![Dashboard](https://github.com/the-vipul-mahajan/Airbnb-Performance-Dashboard/blob/main/Dashboards%20Preview/airbnb%20dashboard%203.png)
 
 ### Dashboard 4
-![Dashboard](https://github.com/vipulm9003/ClipKart-E-Commerce-Sales-Dashboard-Power-BI/blob/main/clipkart-dashboard.png)
+![Dashboard]([https://github.com/vipulm9003/ClipKart-E-Commerce-Sales-Dashboard-Power-BI/blob/main/clipkart-dashboard.png](https://github.com/the-vipul-mahajan/Airbnb-Performance-Dashboard/blob/main/Dashboards%20Preview/airbnb%20dashboard%204.png))
 
 ---
 
