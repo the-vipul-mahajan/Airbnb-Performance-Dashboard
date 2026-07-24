@@ -99,13 +99,16 @@ The dataset contains information about:
 ## 📷 Dashboard Preview
 
 ### Dashboard 1
-*((https://github.com/the-vipul-mahajan/Airbnb-Performance-Dashboard/blob/main/Dashboards%20Preview/airbnb%20dashboard%201.png))*
+![Dashboard](https://github.com/vipulm9003/ClipKart-E-Commerce-Sales-Dashboard-Power-BI/blob/main/clipkart-dashboard.png)
 
 ### Dashboard 2
-*(Add Screenshot Here)*
+![Dashboard](https://github.com/vipulm9003/ClipKart-E-Commerce-Sales-Dashboard-Power-BI/blob/main/clipkart-dashboard.png)
 
 ### Dashboard 3
-*(Add Screenshot Here)*
+![Dashboard](https://github.com/vipulm9003/ClipKart-E-Commerce-Sales-Dashboard-Power-BI/blob/main/clipkart-dashboard.png)
+
+### Dashboard 4
+![Dashboard](https://github.com/vipulm9003/ClipKart-E-Commerce-Sales-Dashboard-Power-BI/blob/main/clipkart-dashboard.png)
 
 ---
 
