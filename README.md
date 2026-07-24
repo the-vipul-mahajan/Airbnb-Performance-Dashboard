@@ -99,7 +99,7 @@ The dataset contains information about:
 ## 📷 Dashboard Preview
 
 ### Dashboard 1
-*(Add Screenshot Here)*
+*((https://github.com/the-vipul-mahajan/Airbnb-Performance-Dashboard/blob/main/Dashboards%20Preview/airbnb%20dashboard%201.png))*
 
 ### Dashboard 2
 *(Add Screenshot Here)*
